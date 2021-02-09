@@ -2,6 +2,6 @@
     grid-area: n;
     background: darkgreen;
 }
- .item {
+ .item a{
      color: whitesmoke;
  }
